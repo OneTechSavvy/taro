@@ -132,7 +132,7 @@ function Footer() {
           <div className="mt-2 text-xs ">
             Made by{" "}
             <a
-              href="mailto:miteshtagadiya@gmail.com"
+              href="mailto:rainbowsprinklescutie@gmail.com"
               className="text-fun-gray-light font-medium"
             >
               Arai Taro
