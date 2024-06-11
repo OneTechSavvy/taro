@@ -69,7 +69,7 @@ class ProfileLinks extends Component {
             faGitlab
           )}
           {generateLinks(
-            "https://www.linkedin.com/in/mitesh-tagadiya-140420108/",
+            "https://www.linkedin.com/in/arai-taro-tagadiya-140420108/",
             "LinkedIn",
             faLinkedin
           )}

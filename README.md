@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJs, NextJS**
 
-- 📫 How to reach me **miteshtagadiya@gmail.com**
+- 📫 How to reach me **rainbowsprinklescutie@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qFXjZqTDow29I2qrH1PfacNd77W9GcXa/view?usp=sharing](https://drive.google.com/file/d/1qFXjZqTDow29I2qrH1PfacNd77W9GcXa/view?usp=sharing)
 

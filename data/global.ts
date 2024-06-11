@@ -79,7 +79,7 @@ export const footer: Footer = {
         },
         {
           name: "LinkedIn",
-          link: "https://www.linkedin.com/in/mitesh-tagadiya-140420108",
+          link: "https://www.linkedin.com/in/arai-taro-tagadiya-140420108",
           icon: `${process.env.NEXT_PUBLIC_BASE_URL}static/icons/linkedin-f.svg`,
           leavesWebsite: true
         },
@@ -97,7 +97,7 @@ export const footer: Footer = {
         },
         {
           name: "Email",
-          link: "mailto:miteshtagadiya@gmail.com",
+          link: "mailto:rainbowsprinklescutie@gmail.com",
           icon: `${process.env.NEXT_PUBLIC_BASE_URL}static/icons/mail-f.svg`,
           leavesWebsite: true
         }
