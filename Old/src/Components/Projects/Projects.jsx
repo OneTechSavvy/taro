@@ -74,7 +74,7 @@ class Projects extends Component {
     let CovidDetails = (
       <React.Fragment>
         <label>
-          COVID-19 Global | India - Get Realtime coronavirus updates for India
+          COVID-19 Global | Japan - Get Realtime coronavirus updates for Japan
           and global. Analytics of all the affected countries with the number of
           confirmed, recovered, deaths and active cases.
         </label>
@@ -618,7 +618,7 @@ class Projects extends Component {
                     "git+https://github.com/miteshtagadiya/package-boilerplate.git",
                 },
                 keywords: ["boilerplate", "code", "for", "package"],
-                author: "Mitesh Tagadiya",
+                author: "Arai Taro",
                 license: "MIT",
                 bugs: {
                   url:
@@ -688,7 +688,7 @@ class Projects extends Component {
             images={[Covid]}
             tech="ReactJs, JavaScript"
             isSocial
-            header="Covid-19 India"
+            header="Covid-19 Japan"
             program="Personal"
             github="https://github.com/miteshtagadiya/Covid-19-Global-Dashboard"
             demo="https://miteshtagadiya.github.io/Covid-19-Global-Dashboard"

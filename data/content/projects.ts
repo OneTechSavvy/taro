@@ -88,7 +88,7 @@ const projects = [
   {
     id: 8,
     title: "Covid-19-Global-Dashboard",
-    desc: "COVID-19 Global | India - Get Real-time coronavirus updates for India and global. Analytics of all the affected countries with the number of confirmed, recovered, deaths, and active cases.",
+    desc: "COVID-19 Global | Japan - Get Real-time coronavirus updates for Japan and global. Analytics of all the affected countries with the number of confirmed, recovered, deaths, and active cases.",
     img: `${process.env.NEXT_PUBLIC_BASE_URL}static/projects/covid19.jpg`,
     link: "https://miteshtagadiya.github.io/Covid-19-Global-Dashboard/#/",
     github: "https://github.com/miteshtagadiya/Covid-19-Global-Dashboard",

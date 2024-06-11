@@ -40,7 +40,7 @@ class WorkExperience extends Component {
             <br />
             <label style={{ fontSize: 18 }}>Fullstack Software Developer</label>
             <br />
-            <label style={{ fontSize: 16 }}>Ahmedabad, India</label>
+            <label style={{ fontSize: 16 }}>Ahmedabad, Japan</label>
 
             <p>
               I am currently working on product named Shoppr, Shoppr is a
@@ -83,7 +83,7 @@ class WorkExperience extends Component {
             <br />
             <label style={{ fontSize: 18 }}>Software Developer Intern</label>
             <br />
-            <label style={{ fontSize: 16 }}>Surat, India</label>
+            <label style={{ fontSize: 16 }}>Surat, Japan</label>
             <p>
               I have completed my summer internship at Cousins Infotech as a
               part of my masters program. Initially at Cousins Infotech, I was
@@ -118,7 +118,7 @@ class WorkExperience extends Component {
             <br />
             <label style={{ fontSize: 18 }}>Software Developer Intern</label>
             <br />
-            <label style={{ fontSize: 16 }}>Surat, India</label>
+            <label style={{ fontSize: 16 }}>Surat, Japan</label>
             <p>
               I have completed my internship at Cousins Infotech as a part of my
               bachelor program. At Cousins Infotech, I was professionally
