@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mitesh Tagadiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Arai Taro</h1>
+<h3 align="center">A passionate frontend developer from Japan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miteshtagadiya&label=Profile%20views&color=0e75b6&style=flat" alt="miteshtagadiya" /> </p>
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mitesh-tagadiya-140420108/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;margin-top: 5px;" />
 </a>
 <a href="https://github.com/miteshtagadiya" target="_blank">

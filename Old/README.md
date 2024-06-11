@@ -1,5 +1,5 @@
 
-## Mitesh Tagadiya
+## Arai Taro
 
 Portfolio app created by ReactJs
 

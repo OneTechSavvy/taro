@@ -22,7 +22,7 @@ function Contact() {
       const { name, email, message } = formData;
       const templateParams = {
         from_name: `${name} - ${email} )`,
-        to_name: "Mitesh Tagadiya",
+        to_name: "Arai Taro",
         message: message
       };
       if (name !== "" && email !== "" && message !== "") {
